@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CreditsTest" tests="37" skipped="0" failures="0" errors="0" timestamp="2024-03-15T23:36:51" hostname="emu-05" time="0.09">
+  <properties/>
+  <testcase name="testAddNeg()" classname="CreditsTest" time="0.013"/>
+  <testcase name="testAddPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testFindCastNeg()" classname="CreditsTest" time="0.006"/>
+  <testcase name="testFindCastPos()" classname="CreditsTest" time="0.002"/>
+  <testcase name="testFindCrewNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testFindCrewPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCastFilmsNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCastFilmsPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCastNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCastPos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetCastStarsInFilmsNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCastStarsInFilmsPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCrewFilmsNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCrewFilmsPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCrewNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetCrewPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetFilmCastNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetFilmCastPos()" classname="CreditsTest" time="0.007"/>
+  <testcase name="testGetFilmCrewNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetFilmCrewPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetMostCastCreditsNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetMostCastCreditsPos()" classname="CreditsTest" time="0.002"/>
+  <testcase name="testGetNumCastCreditsNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetNumCastCreditsPos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetUniqueCastNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetUniqueCastPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testGetUniqueCrewNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testGetUniqueCrewPos()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testRemoveNeg()" classname="CreditsTest" time="0.0"/>
+  <testcase name="testRemovePos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testRemovePosValues()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testSizeNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testSizeOfCastNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testSizeOfCastPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testSizeOfCrewNeg()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testSizeOfCrewPos()" classname="CreditsTest" time="0.001"/>
+  <testcase name="testSizePos()" classname="CreditsTest" time="0.001"/>
+  <system-out><![CDATA[
+Starting testAddNeg...
+
+Starting testAddPos...
+
+Starting testFindCastNeg...
+Initial Size: 2
+Final Size: 2
+
+Starting testFindCastPos...
+Initial Size: 2
+Final Size: 2
+
+Starting testFindCrewNeg...
+Initial Size: 2
+Final Size: 2
+
+Starting testFindCastPos...
+Initial Size: 2
+Final Size: 2
+
+Starting testGetCastFilmsNeg...
+
+Starting testGetCastFilmsPos...
+Initial Size: 3
+Final Size: 3
+
+Starting testGetCastNeg...
+
+Starting testGetCastPos...
+
+Starting testGetCastStarsInFilmsNeg...
+
+Starting testGetCastStarsInFilmsPos...
+Initial Size: 3
+Final Size: 3
+
+Starting testGetCrewFilmsNeg...
+
+Starting testGetCrewFilmsPos...
+Initial Size: 3
+Final Size: 3
+
+Starting testGetCrewNeg...
+
+Starting testGetCastPos...
+
+Starting testGetFilmCastNeg...
+
+Starting testGetFilmCastPos...
+
+Starting testGetFilmCrewNeg...
+
+Starting testGetFilmCrewPos...
+
+Starting testGetMostCastCreditsNeg...
+
+Starting testGetMostCastCreditsPos...
+Initial Size: 2
+Final Size: 2
+
+Starting testGetNumCastCreditsNeg...
+
+Starting testGetNumCastCreditsPos...
+
+Starting testGetUniqueCastNeg...
+Initial Size: 0
+Final Size: 0
+
+Starting testGetUniqueCastPos...
+Initial Size: 2
+Final Size: 2
+
+Starting testGetUniqueCrewNeg...
+Initial Size: 0
+Final Size: 0
+
+Starting testGetUniqueCrewPos...
+Initial Size: 2
+Final Size: 2
+
+Starting testRemoveNeg...
+
+Starting testRemovePos...
+
+Starting testRemovePosValues...
+
+Starting testSizeNeg...
+
+Starting testSizeOfCastNeg...
+
+Starting testSizeOfCastPos...
+
+Starting testSizeOfCrewNeg...
+
+Starting testSizeOfCrewPos...
+
+Starting testSizePos...
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
